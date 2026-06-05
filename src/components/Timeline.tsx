@@ -16,50 +16,57 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="2025 - present"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Automation Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle">US Foods</h4>
+            <span className="vertical-timeline-element-location">Chicago, IL</span>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              End-to-end test automation across API, database, and UI workflows;
+              CI/CD pipeline development;
+              MySQL/MongoDB validation;
+              JavaScript-based test scripting;
+              collaboration with Product Owners, QA/dev leads, and cross-functional teams on planning, design, and delivery.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Quality Engineer Intern</h3>
+            <h4 className="vertical-timeline-element-subtitle">US Foods</h4>
+            <span className="vertical-timeline-element-location">Chicago, IL</span>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Manual testing across API, database, and UI workflows;
+              test case creation and execution;
+              defect tracking and regression validation;
+              MySQL/MongoDB data verification; collaboration with Product Owners, QA/dev leads, and cross-functional teams on planning, design, and release support.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="2021 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Purdue University Graduate</h3>
+            <h4 className="vertical-timeline-element-subtitle">Bachelor of Science in Computer Science, May 2025</h4>
+            <span className="vertical-timeline-element-location">Lafayette, IN</span>
             <p>
-              Full-stack Development, API Development, User Experience
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2020 - 2020"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
-            <p>
-              Automation, Data Governance, Statistical Analysis
+              Concentration in Security, Software Engineering, and AI
+              <br></br>
+              Relevant coursework: Systems Programming, 
+              Operating Systems, 
+              Cryptography, 
+              Computer Security, 
+              Information Systems, 
+              Artificial Intelligence, 
+              Computer Architecture, 
+              Data Structures and Algorithms
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

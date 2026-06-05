@@ -19,6 +19,7 @@ function Main() {
           </div>
           <h1>Josh Tseng</h1>
           <p>Software Engineer</p>
+          <p style={{ fontSize: '0.9em', color: '#999', marginTop: '8px', marginBlockStart: '0px', marginBlockEnd: '0px' }}>Purdue University Graduate</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/joshstseng" target="_blank" rel="noreferrer"><GitHubIcon/></a>

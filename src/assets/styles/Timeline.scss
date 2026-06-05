@@ -5,22 +5,32 @@
 
 .vertical-timeline p {
     color: rgb(39, 40, 34);
+    font-family: 'Courier Prime', monospace;
 }
 
 .vertical-timeline-element p {
     color: rgb(39, 40, 34);
+    font-family: 'Courier Prime', monospace;
 }
 
 .vertical-timeline-element h3 {
     color: rgb(39, 40, 34);
+    font-family: 'Courier Prime', monospace;
 }
 
 .vertical-timeline-element h4 {
     color: rgb(39, 40, 34);
+    font-family: 'Courier Prime', monospace;
 }
 
 .vertical-timeline-element span {
     color: rgb(39, 40, 34);
+}
+
+.vertical-timeline-element-location {
+    font-size: 0.85em;
+    color: #999;
+    font-family: 'Courier Prime', monospace;
 }
 
 .vertical-timeline-element .vertical-timeline-element-date {
